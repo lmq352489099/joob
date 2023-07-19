@@ -1,0 +1,1 @@
+export const useCounter3 = () => useState('counter', () => 2)
